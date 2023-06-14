@@ -354,28 +354,338 @@
 
 
 
-'' => array(
+'PB' => array(
 
 
-    'bandeira' => '<img src="" alt="Bandeira do Acre" width="50" >',
-    'unidadefederativa' => '',
-    'abreviacao' => '',
-    'sedegoverno' => '',
-    'area' => ' ',
-    'populacao' => '',
-    'densidade' => '',
-    'pib' => '',
-    'total' => '',
-    'pibpercapita' => '',
-    'idh' => '',
-    'alfabetizacao' => '',
-    'mortalidade infantil' => '',
-    'expectativadevida' => '',
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg" alt="Bandeira da Paraíba" width="50" >',
+    'unidadefederativa' => 'Paraíba	',
+    'abreviacao' => 'PB',
+    'sedegoverno' => 'João Pessoa',
+    'area' => '56.439,8',
+    'populacao' => '3.950.359',
+    'densidade' => '63,71',
+    'pib' => '56.140.000',
+    'total' => '0,9',
+    'pibpercapita' => '14.133,32',
+    'idh' => '0,658',
+    'alfabetizacao' => '83,7%',
+    'mortalidade infantil' => '16,1‰',
+    'expectativadevida' => '73,2 anos',
 
 
 
 
 ),
+
+'PR' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg" alt="Bandeira do Paraná" width="50" >',
+    'unidadefederativa' => 'Paraná',
+    'abreviacao' => 'PR',
+    'sedegoverno' => 'Curitiba',
+    'area' => '199.314,9',
+    'populacao' => '11.112.062',
+    'densidade' => '51,48',
+    'pib' => '376.960.000',
+    'total' => '6,3',
+    'pibpercapita' => '33.768,62',
+    'idh' => '0,749',
+    'alfabetizacao' => '95,5%',
+    'mortalidade infantil' => '9,3‰',
+    'expectativadevida' => '77,1 anos',
+
+
+
+
+),
+
+'PE' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg" alt="Bandeira de Pernambuco" width="50" >',
+    'unidadefederativa' => 'Pernambuco',
+    'abreviacao' => 'PE',
+    'sedegoverno' => 'Recife',
+    'area' => '98.311,6',
+    'populacao' => '9.297.861',
+    'densidade' => '85,58',
+    'pib' => '156.955.000',
+    'total' => '2,6	',
+    'pibpercapita' => '16.795,34',
+    'idh' => '0,673',
+    'alfabetizacao' => '87,2%',
+    'mortalidade infantil' => '	12,7‰',
+    'expectativadevida' => '73,9 anos',
+
+
+
+
+),
+
+
+'PI' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_do_Piau%C3%AD.svg" alt="Bandeira do Piauí" width="50" >',
+    'unidadefederativa' => 'Piauí',
+    'abreviacao' => 'PI',
+    'sedegoverno' => 'Teresina',
+    'area' => '251.529,2',
+    'populacao' => '3.198.185',
+    'densidade' => '11,95',
+    'pib' => '39.148.000',
+    'total' => '0,7',
+    'pibpercapita' => '12.218,51',
+    'idh' => '0,646',
+    'alfabetizacao' => '82,8%',
+    'mortalidade infantil' => '19,1‰	',
+    'expectativadevida' => '71,1 anos',
+
+
+
+
+),
+
+'RJ' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg" alt="Bandeira do Rio de Janeiro" width="50" >',
+    'unidadefederativa' => 'Rio de Janeiro',
+    'abreviacao' => 'RJ',
+    'sedegoverno' => 'Rio de Janeiro',
+    'area' => '43.696,1',
+    'populacao' => '16.497.395',
+    'densidade' => '352,05',
+    'pib' => '659.137.000',
+    'total' => '11',
+    'pibpercapita' => '39.826,95',
+    'idh' => '0,761',
+    'alfabetizacao' => '97,3%',
+    'mortalidade infantil' => '11,5‰',
+    'expectativadevida' => '76,2 anos',
+
+
+
+
+),
+
+'RN' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_do_Rio_Grande_do_Norte.svg" alt="Bandeira do Rio Grande do Norte" width="50" >',
+    'unidadefederativa' => 'Rio Grande do Norte',
+    'abreviacao' => 'RN',
+    'sedegoverno' => 'Natal',
+    'area' => '52.796,8	',
+    'populacao' => '3.419.550',
+    'densidade' => '56,88',
+    'pib' => '57.250.000',
+    'total' => '1',
+    'pibpercapita' => '16.631,86',
+    'idh' => '0,684',
+    'alfabetizacao' => '85,3%',
+    'mortalidade infantil' => '14,7‰',
+    'expectativadevida' => '75,7 anos',
+
+
+
+
+),
+
+'RS' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_do_Rio_Grande_do_Sul.svg" alt="Bandeira da Paraíba" width="50" >',
+    'unidadefederativa' => 'Rio Grande do Sul',
+    'abreviacao' => 'RS',
+    'sedegoverno' => 'Porto Alegre',
+    'area' => '281.748,5	',
+    'populacao' => '11.228.091',
+    'densidade' => '38,49',
+    'pib' => '381.985.000',
+    'total' => '6,4',
+    'pibpercapita' => '33.960,36',
+    'idh' => '0,746',
+    'alfabetizacao' => '96,8%',
+    'mortalidade infantil' => '9,6‰',
+    'expectativadevida' => '77,8 anos',
+
+
+),
+
+    'RO' => array(
+
+
+        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Rond%C3%B4nia.svg" alt="Bandeira de Rondônia" width="50" >',
+        'unidadefederativa' => 'Rondônia',
+        'abreviacao' => 'RO',
+        'sedegoverno' => 'Porto Velho',
+        'area' => '237.576,2',
+        'populacao' => '1 755 015',
+        'densidade' => '6,46',
+        'pib' => '36.563.000',
+        'total' => '0,6',
+        'pibpercapita' => '20.677,95',
+        'idh' => '0,690',
+        'alfabetizacao' => '93,3%',
+        'mortalidade infantil' => '71,3 anos',
+        'expectativadevida' => '71,3 anos',
+    
+    
+    
+    
+    ),
+
+    'RR' => array(
+
+
+        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Roraima.svg" alt="Bandeira de Roraima" width="50" >',
+        'unidadefederativa' => 'Roraima',
+        'abreviacao' => 'RR',
+        'sedegoverno' => 'Boa Vista',
+        'area' => '224.299,0	',
+        'populacao' => '500.826',
+        'densidade' => '1,74',
+        'pib' => '10.354.000',
+        'total' => '0,2',
+        'pibpercapita' => '20.476,71',
+        'idh' => '0,707',
+        'alfabetizacao' => '93,4%',
+        'mortalidade infantil' => '17,2‰',
+        'expectativadevida' => '71,5 anos',
+    
+    
+    
+    
+    ),
+
+    'SC' => array(
+
+
+        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg" alt="Bandeira de Santa Catarina" width="50" >',
+        'unidadefederativa' => 'Santa Catarina',
+        'abreviacao' => 'SC',
+        'sedegoverno' => 'Florianópolis',
+        'area' => '95.346,2',
+        'populacao' => '6.734.568',
+        'densidade' => '61,53',
+        'pib' => '249.073.000',
+        'total' => '4,2',
+        'pibpercapita' => '	36.525,28',
+        'idh' => '0,774',
+        'alfabetizacao' => '97,2%',
+        'mortalidade infantil' => '97,2%',
+        'expectativadevida' => '79,1 anos',
+    
+    
+    
+    
+    ),
+
+    '' => array(
+
+
+        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" alt="Bandeira da Paraíba" width="50" >',
+        'unidadefederativa' => 'São Paulo',
+        'abreviacao' => 'SP',
+        'sedegoverno' => 'São Paulo',
+        'area' => '248.209,4',
+        'populacao' => '44.169.350',
+        'densidade' => '162,93',
+        'pib' => '1.939.890.000',
+        'total' => '32,4',
+        'pibpercapita' => '43.694,68',
+        'idh' => '0,783',
+        'alfabetizacao' => '97,2%',
+        'mortalidade infantil' => '9,9‰',
+        'expectativadevida' => '78,1 anos',
+    
+    
+    
+    
+    ),
+
+
+    '' => array(
+
+
+        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" alt="Bandeira da Paraíba" width="50" >',
+        'unidadefederativa' => 'São Paulo',
+        'abreviacao' => 'SP',
+        'sedegoverno' => 'São Paulo',
+        'area' => '248.209,4',
+        'populacao' => '44.169.350',
+        'densidade' => '162,93',
+        'pib' => '1.939.890.000',
+        'total' => '32,4',
+        'pibpercapita' => '43.694,68',
+        'idh' => '0,783',
+        'alfabetizacao' => '97,2%',
+        'mortalidade infantil' => '9,9‰',
+        'expectativadevida' => '78,1 anos',
+    
+    
+    
+    
+    ),
+
+    
+
+'SE' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg" alt="Bandeira de Sergipe" width="50" >',
+    'unidadefederativa' => 'Sergipe',
+    'abreviacao' => 'SE',
+    'sedegoverno' => 'Aracaju',
+    'area' => '21.910,3',
+    'populacao' => '2.227.294',
+    'densidade' => '89,81',
+    'pib' => '38.554.000	',
+    'total' => '0,6',
+    'pibpercapita' => '17.189,28',
+    'idh' => '0,665',
+    'alfabetizacao' => '85,3%',
+    'mortalidade infantil' => '16,2‰',
+    'expectativadevida' => '72,7 anos',
+
+
+
+
+),
+
+
+
+
+'TO' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" alt="Bandeira do Acre" width="50" >',
+    'unidadefederativa' => 'Tocantins',
+    'abreviacao' => 'TO',
+    'sedegoverno' => 'Palmas',
+    'area' => '277.620,9 ',
+    'populacao' => '1.502.759',
+    'densidade' => '4,70',
+    'pib' => '28.930.000',
+    'total' => '0,5',
+    'pibpercapita' => '19.094,16',
+    'idh' => '0,699',
+    'alfabetizacao' => '89,6%',
+    'mortalidade infantil' => '15,8‰',
+    'expectativadevida' => '73,4 anos',
+
+
+
+
+),
+
+
+
+
+
+
 
 
 
