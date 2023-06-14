@@ -73,7 +73,7 @@
 
                 'AL' => array(
 
-                    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg" alt="Bandeira do Acre" width="50" >',
+                    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg" alt="Bandeira de Alagoas" width="50" >',
                     'unidadefederativa' => 'Alagoas',
                     'abreviacao' => 'AL',
                     'sedegoverno' => 'Maceió',
@@ -93,7 +93,7 @@
 
             'AP' => array(
 
-                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg" alt="Bandeira do Acre" width="50" >',
+                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg" alt="Bandeira do Amapá" width="50" >',
                 'unidadefederativa' => 'Amapá',
                 'abreviacao' => 'AP',
                 'sedegoverno' => 'Macapá',
@@ -114,7 +114,7 @@
         
         'AM' => array(
 
-            'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg" alt="Bandeira do Acre" width="50" >',
+            'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg" alt="Bandeira do Amazonas" width="50" >',
             'unidadefederativa' => 'Amazonas',
             'abreviacao' => 'AM',
             'sedegoverno' => 'Manaus',
@@ -134,7 +134,7 @@
 
     'BA' => array(
 
-        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg" alt="Bandeira do Acre" width="50" >',
+        'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg" alt="Bandeira da Bahia" width="50" >',
         'unidadefederativa' => 'Bahia',
         'abreviacao' => 'BA',
         'sedegoverno' => 'Salvador',
@@ -154,7 +154,7 @@
 
 'CE' => array(
 
-    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg" alt="Bandeira do Acre" width="50" >',
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg" alt="Bandeira do Ceará" width="50" >',
     'unidadefederativa' => 'Ceará',
     'abreviacao' => 'CE',
     'sedegoverno' => 'Fortaleza',
@@ -174,7 +174,7 @@
 
 'DF' => array(
 
-    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg" alt="Bandeira do Acre" width="50" >',
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg" alt="Bandeira do Distrito Federal" width="50" >',
     'unidadefederativa' => 'Distrito Federal',
     'abreviacao' => 'DF',
     'sedegoverno' => 'Brasília',
@@ -194,7 +194,7 @@
 
 'ES' => array(
 
-    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg" alt="Bandeira do Acre" width="50" >',
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg" alt="Bandeira do Espirito Santo" width="50" >',
     'unidadefederativa' => 'Espírito Santo',
     'abreviacao' => 'ES',
     'sedegoverno' => 'Vitória',
@@ -214,7 +214,7 @@
     
 'GO' => array(
 
-    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Goi%C3%A1s.svg" alt="Bandeira do Acre" width="50" >',
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Goi%C3%A1s.svg" alt="Bandeira de Goiás" width="50" >',
     'unidadefederativa' => 'Goiás',
     'abreviacao' => 'GO',
     'sedegoverno' => 'Goiânia	',
@@ -231,6 +231,158 @@
 
 
 ),
+
+
+
+'MA' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_do_Maranh%C3%A3o.svg" alt="Bandeira do Maranhão" width="50" >',
+    'unidadefederativa' => 'Maranhão',
+    'abreviacao' => 'MA',
+    'sedegoverno' => 'São Luís',
+    'area' => '331.983,3',
+    'populacao' => '6.861.924	',
+    'densidade' => '18,38',
+    'pib' => '78.475.000',
+    'total' => '1,3',
+    'pibpercapita' => '11.366,23',
+    'idh' => '0,639',
+    'alfabetizacao' => '83,3%',
+    'mortalidade infantil' => '21,3‰',
+    'expectativadevida' => '70,6 anos',
+
+),
+
+'MT' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg" alt="Bandeira do Mato Grosso" width="50" >',
+    'unidadefederativa' => 'Mato Grosso',
+    'abreviacao' => 'MT',
+    'sedegoverno' => 'Cuiabá',
+    'area' => '903.357,9	',
+    'populacao' => '3.236.578',
+    'densidade' => '3,10',
+    'pib' => '107.418.000	',
+    'total' => '1,8',
+    'pibpercapita' => '32.894,96',
+    'idh' => '0,725',
+    'alfabetizacao' => '93,5%',
+    'mortalidade infantil' => '16,9‰',
+    'expectativadevida' => '74,2 anos',
+
+
+
+
+),
+
+
+
+'MS' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg" alt="Bandeira do Mato Grosso do Sul" width="50" >',
+    'unidadefederativa' => 'Mato Grosso do Sul',
+    'abreviacao' => 'MS',
+    'sedegoverno' => 'Campo Grande',
+    'area' => '3.236.578',
+    'populacao' => '2.630.098',
+    'densidade' => '6,34',
+    'pib' => '83.082.000',
+    'total' => '1,4',
+    'pibpercapita' => '31.337,22	',
+    'idh' => '0,729	',
+    'alfabetizacao' => '93,7%',
+    'mortalidade infantil' => '14,0‰',
+    'expectativadevida' => '75,5 anos',
+
+
+
+
+),
+
+
+
+'MG' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" alt="Bandeira de Minas Gerais" width="50" >',
+    'unidadefederativa' => 'Minas Gerais',
+    'abreviacao' => 'MG',
+    'sedegoverno' => 'Belo Horizonte',
+    'area' => '586.528,3',
+    'populacao' => '20.777.672	',
+    'densidade' => '32,79',
+    'pib' => '519.326.000',
+    'total' => '8,7',
+    'pibpercapita' => '	24.884,94',
+    'idh' => '0,731',
+    'alfabetizacao' => '93,8%',
+    'mortalidade infantil' => '10,9‰',
+    'expectativadevida' => '77,2 anos',
+
+
+
+
+),
+
+
+
+'PA' => array(
+
+
+    'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_do_Par%C3%A1.svg" alt="Bandeira do Pará" width="50" >',
+    'unidadefederativa' => 'Pará',
+    'abreviacao' => 'PA',
+    'sedegoverno' => 'Belém	',
+    'area' => '1.247.689,5',
+    'populacao' => '8.101.180',
+    'densidade' => '5,58',
+    'pib' => '130.883.000',
+    'total' => '2,2',
+    'pibpercapita' => '16.009,98',
+    'idh' => '0,646',
+    'alfabetizacao' => '90,7%',
+    'mortalidade infantil' => '16,6‰',
+    'expectativadevida' => '72,1 anos',
+
+
+
+
+),
+
+
+
+'' => array(
+
+
+    'bandeira' => '<img src="" alt="Bandeira do Acre" width="50" >',
+    'unidadefederativa' => '',
+    'abreviacao' => '',
+    'sedegoverno' => '',
+    'area' => ' ',
+    'populacao' => '',
+    'densidade' => '',
+    'pib' => '',
+    'total' => '',
+    'pibpercapita' => '',
+    'idh' => '',
+    'alfabetizacao' => '',
+    'mortalidade infantil' => '',
+    'expectativadevida' => '',
+
+
+
+
+),
+
+
+
+
+
+
+
 
 
 
